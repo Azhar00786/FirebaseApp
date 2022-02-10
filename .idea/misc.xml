@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/baps/AndroidStudioProjects/FirebaseApp/app/src/main/res/drawable/ic_baseline_phone_android_24.xml" value="0.1712962962962963" />
+        <entry key="..\:/Users/baps/AndroidStudioProjects/FirebaseApp/app/src/main/res/drawable/otpinputbox.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/baps/AndroidStudioProjects/FirebaseApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/baps/AndroidStudioProjects/FirebaseApp/app/src/main/res/layout/fragment_home.xml" value="0.13043478260869565" />
+        <entry key="..\:/Users/baps/AndroidStudioProjects/FirebaseApp/app/src/main/res/layout/fragment_login.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/baps/AndroidStudioProjects/FirebaseApp/app/src/main/res/layout/fragment_otp_processing.xml" value="0.13043478260869565" />
+        <entry key="..\:/Users/baps/AndroidStudioProjects/FirebaseApp/app/src/main/res/layout/progress_dialog.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
